@@ -1,0 +1,7 @@
+.classpath
+.project
+.cproject
+.settings/
+Debug/
+Release/
+bin/
